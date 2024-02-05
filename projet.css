@@ -36,8 +36,9 @@ a{
 .content{
     height: 1000px;
     background-image: url("wac.jpg");
-    background-attachment: fixed;
+    background-attachment: local;
     padding: 150px;
+    height: 500px;
 }
 .t2{
     font-size: 90px;
@@ -46,5 +47,7 @@ a{
 }
 .p1{
     color:white;
-    font-size: 20px;
+    font-size: 35px;
+    font-style: italic;
+    font-family: serif;
 }

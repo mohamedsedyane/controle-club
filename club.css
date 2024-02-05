@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.tit{
+    background-image: url(wins2.png);
+    background-repeat:no-repeat ;
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    height: 250px;
+    text-align: left;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+
+.caf{
+    width: 300px;
+    height: 300px;
+    border:solid #bdc3c7;
+}
